@@ -17,7 +17,7 @@ You have created a beautiful responsive and interactive **Website** or **High-Fi
 2. Sync Draft
 3. Publish to a domain
 
- **You design using your favorite desing tool and we take care of the rest:**
+ **You design using your favorite design tool and we take care of the rest:**
 
 -   Deployment
 -   Hosting
